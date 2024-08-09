@@ -1,15 +1,3 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Panban
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+This is a simple Kanban board using @shopify/draggable
