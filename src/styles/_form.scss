@@ -1,0 +1,21 @@
+
+form {
+  display: flex;
+  flex-direction: column;
+
+  input {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    padding: 10px;
+
+    background: rgba(255, 255, 255, 0.09);
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
